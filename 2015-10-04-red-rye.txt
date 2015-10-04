@@ -1,20 +1,20 @@
-ME BREW RECIPE:
+HOME BREW RECIPE:
 Title: Red Rye Ale
 
 Brew Method: All Grain
 Style Name: Irish Red Ale
 Boil Time: 60 min
-Batch Size: 25 liters (fermentor volume)
-Boil Size: 28 liters
-Boil Gravity: 1.049
+Batch Size: 21 liters (fermentor volume)
+Boil Size: 23 liters
+Boil Gravity: 1.060
 Efficiency: 75% (brew house)
 
 STATS:
-Original Gravity: 1.055
-Final Gravity: 1.016
-ABV (standard): 5.15%
-IBU (tinseth): 33
-SRM (morey): 12.42
+Original Gravity: 1.065
+Final Gravity: 1.019
+ABV (standard): 6.14%
+IBU (tinseth): 29.77
+SRM (morey): 14
 
 FERMENTABLES:
 4 kg - United Kingdom - Pale 2-Row (67.8%)
@@ -24,10 +24,10 @@ FERMENTABLES:
 0.2 kg - American - Aromatic Malt (3.4%)
 
 HOPS:
-28 g - Perle, Type: Leaf/Whole, AA: 8.2, Use: Boil for 60 min, IBU: 21.37
-28 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 15 min, IBU: 11.64
-57 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 0 min
-57 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Dry Hop for 6 days
+1 oz - Perle, Type: Leaf/Whole, AA: 8.2, Use: Boil for 60 min, IBU: 23.4
+0.5 oz - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 15 min, IBU: 6.37
+1 oz - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 0 min
+1 oz - Amarillo, Type: Leaf/Whole, AA: 9, Use: Dry Hop for 6 days
 
 MASH GUIDELINES:
 1) Sparge, Temp: 67 C, Time: 60 min, Amount: 15 L
@@ -55,3 +55,9 @@ Water Notes:
 
 This recipe has been published online at:
 http://www.brewersfriend.com/homebrew/recipe/view/283250/red-rye-ale
+
+NOTES:
+
+Mash slightly too hot, ~ 69 - 70 C
+
+Pre-boil Gravity: 1.049
