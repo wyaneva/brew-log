@@ -1,0 +1,57 @@
+ME BREW RECIPE:
+Title: Red Rye Ale
+
+Brew Method: All Grain
+Style Name: Irish Red Ale
+Boil Time: 60 min
+Batch Size: 25 liters (fermentor volume)
+Boil Size: 28 liters
+Boil Gravity: 1.049
+Efficiency: 75% (brew house)
+
+STATS:
+Original Gravity: 1.055
+Final Gravity: 1.016
+ABV (standard): 5.15%
+IBU (tinseth): 33
+SRM (morey): 12.42
+
+FERMENTABLES:
+4 kg - United Kingdom - Pale 2-Row (67.8%)
+0.55 kg - German - Rye (9.3%)
+0.45 kg - United Kingdom - Cara Malt (7.6%)
+0.7 kg - United Kingdom - Crystal 60L (11.9%)
+0.2 kg - American - Aromatic Malt (3.4%)
+
+HOPS:
+28 g - Perle, Type: Leaf/Whole, AA: 8.2, Use: Boil for 60 min, IBU: 21.37
+28 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 15 min, IBU: 11.64
+57 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 0 min
+57 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Dry Hop for 6 days
+
+MASH GUIDELINES:
+1) Sparge, Temp: 67 C, Time: 60 min, Amount: 15 L
+Starting Mash Thickness: 2.5 L/kg
+
+YEAST:
+White Labs - British Ale Yeast WLP005
+Starter: No
+Form: Liquid
+Attenuation (avg): 70.5%
+Flocculation: High
+Optimum Temp: 18.33 - 21.11 C
+Fermentation Temp: 17 C
+
+TARGET WATER PROFILE:
+Profile Name: Edinburgh (Scottish Ale, Malty Ale)
+Ca2: 100
+Mg2: 18
+Na: 20
+Cl: 45
+SO4: 105
+HCO3: 235
+Water Notes:
+
+
+This recipe has been published online at:
+http://www.brewersfriend.com/homebrew/recipe/view/283250/red-rye-ale
