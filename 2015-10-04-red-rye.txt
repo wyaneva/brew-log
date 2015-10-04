@@ -4,17 +4,17 @@ Title: Red Rye Ale
 Brew Method: All Grain
 Style Name: Irish Red Ale
 Boil Time: 60 min
-Batch Size: 21 liters (fermentor volume)
+Batch Size: 20 liters (fermentor volume)
 Boil Size: 23 liters
-Boil Gravity: 1.060
-Efficiency: 75% (brew house)
+Boil Gravity: 1.049
+Efficiency: 62% (brew house)
 
 STATS:
-Original Gravity: 1.065
-Final Gravity: 1.019
-ABV (standard): 6.14%
-IBU (tinseth): 29.77
-SRM (morey): 14
+Original Gravity: 1.057
+Final Gravity: 1.018
+ABV (standard): 5.03%
+IBU (tinseth): 28.07
+SRM (morey): 14.47
 
 FERMENTABLES:
 4 kg - United Kingdom - Pale 2-Row (67.8%)
@@ -24,23 +24,27 @@ FERMENTABLES:
 0.2 kg - American - Aromatic Malt (3.4%)
 
 HOPS:
-1 oz - Perle, Type: Leaf/Whole, AA: 8.2, Use: Boil for 60 min, IBU: 23.4
-0.5 oz - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 15 min, IBU: 6.37
-1 oz - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 0 min
-1 oz - Amarillo, Type: Leaf/Whole, AA: 9, Use: Dry Hop for 6 days
+15 g - Northern Brewer, Type: Leaf/Whole, AA: 6, Use: Boil for 60 min, IBU: 10.44
+15 g - East Kent Goldings, Type: Pellet, AA: 6, Use: Boil for 30 min, IBU: 8.83
+17 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 15 min, IBU: 8.81
+30 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 0 min
+28 g - Amarillo, Type: Pellet, AA: 9, Use: Dry Hop for 7 days
 
 MASH GUIDELINES:
 1) Sparge, Temp: 67 C, Time: 60 min, Amount: 15 L
 Starting Mash Thickness: 2.5 L/kg
 
+OTHER INGREDIENTS:
+1 tsp - Irish Moss, Time: 15 min, Type: Fining, Use: Boil
+
 YEAST:
-White Labs - British Ale Yeast WLP005
+White Labs - English Ale Yeast WLP002
 Starter: No
 Form: Liquid
-Attenuation (avg): 70.5%
-Flocculation: High
-Optimum Temp: 18.33 - 21.11 C
-Fermentation Temp: 17 C
+Attenuation (avg): 66.5%
+Flocculation: Very High
+Optimum Temp: 18.33 - 20 C
+Fermentation Temp: 19 C
 
 TARGET WATER PROFILE:
 Profile Name: Edinburgh (Scottish Ale, Malty Ale)
@@ -51,6 +55,7 @@ Cl: 45
 SO4: 105
 HCO3: 235
 Water Notes:
+Apparently this is all wrong.
 
 
 This recipe has been published online at:
@@ -62,4 +67,10 @@ Added 1g gypsum to the mash
 
 Mash slightly too hot, ~ 69 - 70 C
 
-Pre-boil Gravity: 1.049
+Pre-boil Gravity: 1.049. Suggests 62% efficiency?
+
+Post-boil Volume: 17 L. Lost 6 L (about 25%) in the boil! Should have taken that into account.
+
+Post-boil Gravity: 1.070
+
+Add 2.8 L water to reach 20 L - 1.060
