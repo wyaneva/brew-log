@@ -58,6 +58,8 @@ http://www.brewersfriend.com/homebrew/recipe/view/283250/red-rye-ale
 
 NOTES:
 
+Added 1g gypsum to the mash
+
 Mash slightly too hot, ~ 69 - 70 C
 
 Pre-boil Gravity: 1.049
