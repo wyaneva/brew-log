@@ -28,7 +28,6 @@ HOPS:
 15 g - East Kent Goldings, Type: Pellet, AA: 6, Use: Boil for 30 min, IBU: 8.83
 17 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 15 min, IBU: 8.81
 30 g - Amarillo, Type: Leaf/Whole, AA: 9, Use: Boil for 0 min
-28 g - Amarillo, Type: Pellet, AA: 9, Use: Dry Hop for 7 days
 
 MASH GUIDELINES:
 1) Sparge, Temp: 67 C, Time: 60 min, Amount: 15 L
@@ -83,3 +82,18 @@ Add 2.8 L water to reach 20 L - 1.060
 Gravity: 1.015
 
 Taste: Quite hoppy, can still taste the rye though.
+
+--------------------------------------------------------------------------------
+
+2015-10-10:
+==========
+
+Gravity: 1.015 - YESSS! Stable gravity, the yeast has finished. 5.9% ABV.
+
+Taste:   Hoppy, but not too hoppy. Malty taste from the rye. A bit thin.
+Colour:  Light red, a good ale colour.
+Clarity: Slightly hazy. Hoping it will clear out a bit more, but even if it didn't it would still be satisfying clarity.
+
+Racked into a new bucket. Used Star San HB for sanitising for the first time. Suspicious of the bubbles.
+
+Volume after racking: ~18 L
