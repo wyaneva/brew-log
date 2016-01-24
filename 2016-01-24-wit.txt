@@ -1,0 +1,67 @@
+HOME BREW RECIPE:
+Title: Wit
+
+Brew Method: All Grain
+Style Name: Witbier
+Boil Time: 60 min
+Batch Size: 19 liters (fermentor volume)
+Boil Size: 25 liters
+Boil Gravity: 1.035
+Efficiency: 70% (brew house)
+
+STATS:
+Original Gravity: 1.046
+Final Gravity: 1.009
+ABV (standard): 4.86%
+IBU (tinseth): 13
+SRM (morey): 3.87
+
+FERMENTABLES:
+2.25 kg - United Kingdom - Pale 2-Row (56.3%)
+1.25 kg - United Kingdom - Wheat (31.3%)
+0.5 kg - Torrified Wheat (12.5%)
+
+HOPS:
+20 g - Hallertau Mittelfruh, Type: Leaf/Whole, AA: 3.6, Use: Boil for 60 min, IBU: 10
+30 g - Hallertau Mittelfruh, Type: Leaf/Whole, AA: 3.6, Use: Boil for 5 min, IBU: 2.99
+
+MASH GUIDELINES:
+1) Infusion, Temp: 65 C, Time: 90 min, Amount: 11 L
+2) Sparge, Temp: 72 C, Time: 0 min, Amount: 14 L
+Starting Mash Thickness: 2.5 L/kg
+
+OTHER INGREDIENTS:
+25 g - Curacao Orange Peel, Time: 5 min, Type: Flavor, Use: Boil
+20 g - Coriander Seed, Time: 5 min, Type: Spice, Use: Boil
+1 tsp - Irish Moss, Time: 15 min, Type: Fining, Use: Boil
+
+YEAST:
+Mangrove Jack - Belgian Ale Yeast
+Starter: No
+Form: Dry
+Attenuation (avg): 78%
+Flocculation: Medium
+Optimum Temp: 26.11 - 32.22 C
+
+TARGET WATER PROFILE:
+Profile Name: Pilsen (Light Lager)
+Ca2: 7
+Mg2: 3
+Na: 2
+Cl: 5
+SO4: 5
+HCO3: 25
+Water Notes:
+
+NOTES:
+
+Strike temperature: 74 C
+Mash Temperature : 67 C
+
+Pre-boil Volume: 25 L
+Pre-boil Gravity: 1.039. Suggests 78% efficiency :)
+
+Post-boil Volume: 19 L
+Post-boil Gravity: 1.045
+
+Yeast: Mangrove Jack M21 Belgian Wit
