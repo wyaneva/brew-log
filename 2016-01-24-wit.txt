@@ -68,7 +68,7 @@ Yeast: Mangrove Jack M21 Belgian Wit
 
 ----------------------------------------------------------------------------------------
 
-2016-02-07
+2016-02-07:
 ==========
 
 Gravity: 1.014. 4.07% ABV.
@@ -81,3 +81,11 @@ Racked into a new bucket.
 
 Volume after racking: ~17.7 L
 
+----------------------------------------------------------------------------------------
+
+2016-02-23:
+==========
+
+Racked into a new bucket and bottled.
+
+17.5 L @ 17 C and 2.6 volumes of CO2: 116g of priming sugar.
