@@ -1,0 +1,81 @@
+HOME BREW RECIPE:
+Title: Coco-Loco Vanilla Smoothie
+
+Brew Method: All Grain
+Style Name: Irish Stout
+Boil Time: 60 min
+Batch Size: 19.5 liters (fermentor volume)
+Boil Size: 24 liters
+Boil Gravity: 1.047
+Efficiency: 65% (brew house)
+
+
+STATS:
+Original Gravity: 1.058
+Final Gravity: 1.016
+ABV (standard): 5.48%
+IBU (tinseth): 27.35
+SRM (morey): 30.47
+
+FERMENTABLES:
+4 kg - United Kingdom - Golden Promise (69.6%)
+0.75 kg - Flaked Oats (13%)
+0.25 kg - United Kingdom - Chocolate (4.3%)
+0.25 kg - United Kingdom - Coffee Malt (4.3%)
+0.25 kg - United Kingdom - Crystal 50L (4.3%)
+0.25 kg - United Kingdom - Dark Crystal 80L (4.3%)
+
+HOPS:
+25 g - Minstrel, Type: Leaf/Whole, AA: 7.38, Use: Boil for 60 min, IBU: 22.47
+15 g - Minstrel, Type: Leaf/Whole, AA: 7.38, Use: Boil for 10 min, IBU: 4.89
+40 g - Simcoe, Type: Leaf/Whole, AA: 13.8, Use: Dry Hop for 7 days
+
+MASH GUIDELINES:
+1) Temp: 67 C, Time: 75 min, Amount: 14.5 L
+Starting Mash Thickness: 2.5 L/kg
+
+OTHER INGREDIENTS:
+1 tsp - Irish Moss, Time: 15 min, Type: Fining, Use: Boil
+
+YEAST:
+White Labs - Irish Ale Yeast WLP004
+Starter: No
+Form: Liquid
+Attenuation (avg): 71.5%
+Flocculation: Med-High
+Optimum Temp: 18.33 - 20 C
+Fermentation Temp: 20 C
+
+TARGET WATER PROFILE:
+Profile Name:
+Ca2: 60
+Mg2: 5
+Na: 10
+Cl: 95
+SO4: 55
+HCO3: 0
+Water Notes:
+
+--------------------------------------------------------------------------------
+NOTES:
+
+Perhaps should have added Baking Soda or Calcium Carbonate. Good for a dark ale
+or stout.
+
+Strike temperature: 73 C
+Mash temperature: 67 C
+
+Didn't take pre-boil gravity.
+
+Pre-boil Volume: 24 L
+Post-boil Volume: 19.5 L
+Post-boil Gravity: 1.056
+
+2016-03-24:
+==========
+
+Racked into two halves: 10L each.
+
+Dry-hopped one half with 20g Simcoe.
+
+Gravity: 1.020. A little high? We were expecting 1.016. Still: 4.73% ABV.
