@@ -1,0 +1,78 @@
+HOME BREW RECIPE:
+Title: Liquorice 80/-
+
+Brew Method: All Grain
+Style Name: Scottish Heavy
+Boil Time: 75 min
+Batch Size: 22.5 liters (fermentor volume)
+Boil Size: 27 liters
+Boil Gravity: 1.038
+Efficiency: 70% (brew house)
+
+
+STATS:
+Original Gravity: 1.046
+Final Gravity: 1.014
+ABV (standard): 4.23%
+IBU (tinseth): 14.19
+SRM (morey): 18.05
+
+FERMENTABLES:
+3 kg - United Kingdom - Golden Promise (60%)
+0.5 kg - Belgian - Aromatic (10%)
+0.5 kg - German - Carapils (10%)
+0.5 kg - United Kingdom - Amber (10%)
+0.5 kg - United Kingdom - Extra Dark Crystal 120L (10%)
+
+HOPS:
+30 g - Styrian Goldings, Type: Leaf/Whole, AA: 3.5, Use: Boil for 60 min, IBU: 11.95
+15 g - East Kent Goldings, Type: Pellet, AA: 6, Use: Boil for 5 min, IBU: 2.25
+
+MASH GUIDELINES:
+1) Infusion, Temp: 69 C, Time: 75 min, Amount: 12 L
+2) Infusion, Temp: 71 C, Time: 30 min, Amount: 3.3 L, Add @ Boiling to previous
+Starting Mash Thickness: 2.5 L/kg
+
+OTHER INGREDIENTS:
+8.8 g - Liquorice (4 x teabags), Time: 5 min, Type: Spice, Use: Boil
+1 tsp - Irish Moss, Time: 15 min, Type: Fining, Use: Boil
+
+YEAST:
+White Labs - Edinburgh Scottish Ale Yeast WLP028
+Starter: No
+Form: Liquid
+Attenuation (avg): 72.5%
+Flocculation: Medium
+Optimum Temp: 18.33 - 21.11 C
+
+TARGET WATER PROFILE:
+Profile Name:
+Ca2: 100
+Mg2: 18
+Na: 20
+Cl: 45
+SO4: 105
+HCO3: 235
+Water Notes:
+
+--------------------------------------------------------------------------------
+
+NOTES:
+
+Strike temperature: 77 C
+Mash temperature: 67.5 C
+
+Did a full recirculation of all 28 L or wort at end of sparge.
+
+Added 3.3 L of boiling water to 12 L mash to raise temperature to 71 C.
+
+Pre-boil Volume: 27 L
+Pre-boil Gravity: 1.038
+
+Suggests efficiency of 70%.
+
+Post-boil Volume: 22.5 L
+Post-boil Gravity: 1.046
+
+Adding 4 teabags of liquorice tea (100% liquorice). Weight about does not
+include the weight of the teabags.
