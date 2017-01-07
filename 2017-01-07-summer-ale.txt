@@ -45,3 +45,5 @@ NOTES:
 Around 65% efficiency.
 
 Post-boil Gravity: 1.046
+
+Intend to carbonate to around 2.6 volumes.
