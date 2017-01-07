@@ -25,6 +25,7 @@ HOPS:
 10 g - Cascade, Type: Leaf/Whole, AA: 6.5, Use: Boil for 60 min, IBU: 12.08
 10 g - Cascade, Type: Leaf/Whole, AA: 6.5, Use: Boil for 30 min, IBU: 9.28
 16 g - Cascade, Type: Leaf/Whole, AA: 6.5, Use: Boil for 0 min
+20 g - Amarillo, Type: Leaf/Whole, AA: 8.6, Use: Dry Hop for 7 days
 
 MASH GUIDELINES:
 1) Infusion, Temp: 50 C, Time: 20 min, Amount: 7.75 L
