@@ -1,0 +1,46 @@
+HOME BREW RECIPE:
+Title: Summer Ale (UnremarkabAle)
+
+Brew Method: All Grain
+Style Name: British Golden Ale
+Boil Time: 60 min
+Batch Size: 14 liters (fermentor volume)
+Boil Size: 18 liters
+Boil Gravity: 1.037
+Efficiency: 65% (brew house)
+
+
+STATS:
+Original Gravity: 1.047
+Final Gravity: 1.015
+ABV (standard): 4.18%
+IBU (tinseth): 21.36
+SRM (morey): 4.01
+
+FERMENTABLES:
+2.2 kg - United Kingdom - Pale 2-Row (68.8%)
+1 kg - German - Pilsner (31.3%)
+
+HOPS:
+10 g - Cascade, Type: Leaf/Whole, AA: 6.5, Use: Boil for 60 min, IBU: 12.08
+10 g - Cascade, Type: Leaf/Whole, AA: 6.5, Use: Boil for 30 min, IBU: 9.28
+16 g - Cascade, Type: Leaf/Whole, AA: 6.5, Use: Boil for 0 min
+
+MASH GUIDELINES:
+1) Infusion, Temp: 50 C, Time: 20 min, Amount: 7.75 L
+2) Infusion, Temp: 67 C, Time: 40 min, Amount: 4.6 L
+Starting Mash Thickness: 2.5 L/kg
+
+YEAST:
+White Labs - English Ale Yeast WLP002
+Starter: No
+Form: Liquid
+Attenuation (avg): 66.5%
+Flocculation: Very High
+Optimum Temp: 18.33 - 20 C
+
+NOTES:
+
+Around 65% efficiency.
+
+Post-boil Gravity: 1.046
