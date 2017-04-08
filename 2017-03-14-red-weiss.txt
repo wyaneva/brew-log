@@ -1,0 +1,56 @@
+HOME BREW RECIPE:
+Title: Red Wheat
+
+Brew Method: All Grain
+Style Name: Dunkles Weissbier
+Boil Time: 60 min
+Batch Size: 23 liters (fermentor volume)
+Boil Size: 23 liters
+Boil Gravity: 1.046
+Efficiency: 65% (brew house)
+
+
+STATS:
+Original Gravity: 1.046
+Final Gravity: 1.013
+ABV (standard): 4.38%
+IBU (tinseth): 14.76
+SRM (morey): 11.55
+
+FERMENTABLES:
+2.6 kg - United Kingdom - Wheat (49.1%)
+1.15 kg - United Kingdom - Munich (21.7%)
+1 kg - German - Pilsner (18.9%)
+0.5 kg - German - CaraMunich I (9.4%)
+0.05 kg - United Kingdom - Chocolate (0.9%)
+
+HOPS:
+18 g - Hallertau Hersbrucker, Type: Pellet, AA: 2.8, Use: Boil for 60 min, IBU: 5.76
+7 g - Perle, Type: Leaf/Whole, AA: 7.1, Use: Boil for 60 min, IBU: 5.16
+10 g - Hallertau Hersbrucker, Type: Pellet, AA: 2.8, Use: Boil for 10 min, IBU: 1.16
+10 g - Perle, Type: Leaf/Whole, AA: 7.1, Use: Boil for 10 min, IBU: 2.67
+
+MASH GUIDELINES:
+1) Infusion, Temp: 68 C, Time: 60 min, Amount: 13.25 L
+Starting Mash Thickness: 2.5 L/kg
+
+YEAST:
+Mangrove Jack - Bavarian Wheat Yeast M20
+Starter: No
+Form: Dry
+Attenuation (avg): 73%
+Flocculation: Low
+Optimum Temp: 15 - 30 C
+
+NOTES:
+
+Post-boil volume was 20L. Added 3L of cold water 
+
+Gravity: 1.043
+
+2017-04-01:
+===========
+
+Gravity: 1.012/1.013 - ~ 4% ABV.
+
+19 L and 3.4 volumes of CO2: 193g priming sugar.
