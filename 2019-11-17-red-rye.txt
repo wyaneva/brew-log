@@ -1,3 +1,65 @@
+HOME BREW RECIPE:
+Title: Red Rye (Small)
+
+Brew Method: All Grain
+Style Name: Irish Red Ale
+Boil Time: 60 min
+Batch Size: 14 liters (ending kettle volume)
+Boil Size: 18.5 liters
+Boil Gravity: 1.029
+Efficiency: 60% (ending kettle)
+
+Hop Utilization Multiplier: 1
+
+STATS:
+Original Gravity: 1.039
+Final Gravity: 1.011
+ABV (standard): 3.65%
+IBU (tinseth): 22.23
+SRM (morey): 11.2
+Mash pH: 5.58
+
+FERMENTABLES:
+2 kg - Pilsner (67.1%)
+0.35 kg - Caramel / Crystal 60L (11.7%)
+0.3 kg - Rye (10.1%)
+0.23 kg - Cara Malt (7.7%)
+0.1 kg - Aromatic Malt (3.4%)
+
+HOPS:
+7 g - East Kent Goldings, Type: Pellet, AA: 4.3, Use: Boil for 60 min, IBU: 6.56
+7 g - East Kent Goldings, Type: Pellet, AA: 4.3, Use: Boil for 30 min, IBU: 5.04
+8 g - Idhao 7, Type: Leaf/Whole, AA: 13.5, Use: Boil for 15 min, IBU: 10.62
+14 g - Idaho 7, Type: Leaf/Whole, AA: 13.5, Use: Aroma for 0 min
+
+MASH GUIDELINES:
+1) Temperature, Temp: 67 C, Time: 60 min, Amount: 7.4 L
+2) Sparge, Temp: 76 C, Amount: 14 L
+Starting Mash Thickness: 2.5 L/kg
+
+OTHER INGREDIENTS:
+1 tsp - Irish Moss, Time: 15 min, Type: Fining, Use: Boil
+
+YEAST:
+White Labs - British Ale Yeast WLP005
+Starter: No
+Form: Liquid
+Attenuation (avg): 70.5%
+Flocculation: High
+Optimum Temp: 18.33 - 21.11 C
+Pitch Rate: 0.35 (M cells / ml / deg P)
+
+TARGET WATER PROFILE:
+Profile Name: 25646
+Ca2: 10
+Mg2: 1
+Na: 7
+Cl: 5
+SO4: 11
+HCO3: 32
+Water Notes:
+
+
 NOTES:
 ------
 
