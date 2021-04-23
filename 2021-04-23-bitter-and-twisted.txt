@@ -1,0 +1,32 @@
+23/04/2021
+==========
+
+Using the Brewzilla Robobrewer for the fist time, yayy!
+
+Grains - 4.34kg
+
+Mash
+----
+Mashing with around 13L water (mash thickness of 3L/kg).
+
+Heated the water to 74C and added the grains.
+
+Mashing at 67C for 65 minutes.
+
+Notes:
+- [This blog post](https://www.thehomebrewforum.co.uk/threads/the-dummies-guide-to-brewzilla.89574/) 
+has a good step by step guide to using Brewzilla.
+- It takes about 40mins to heat up 15L of water to 80C in the kettle on the hob.
+
+Sparge
+------
+Sparged up to 24.5L with 80C water.
+
+Pre-boil gravity: 1.045 which is slightly over (expected 1.04). 
+
+Boil
+----
+Boiling for 90mins, adding hops at intervals as per recipe.
+Adding 1tsp of irish moss 15mins before the end of the boil, because there is a lot of grain residue in the liquid and we want a clear beer.
+
+OG (after boil gravity): 1.054, efficiency 80%, very nice!!
