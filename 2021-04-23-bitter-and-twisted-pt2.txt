@@ -35,4 +35,21 @@ OG (after boil gravity): 1.054, efficiency 80%, very nice!!
 ==========
 
 Activity in the fermentor has slowed down significantly.
-Measured gravity: 1.008 - this about what we expected at the end of fermentation.
+Gravity: 1.008 - this about what we expect (1.01) at the end of fermentation.
+
+02/05/2021
+==========
+
+No activity in the fermentor.
+Final gravity: 1.009 - nice. That's closer to what we expect (1.01) at the end of fermentation.
+ABV: 5.91 - more than we expected, but this is due to high mash efficiency.
+Racked and dry hopped. We used 12g of Williamet and 4g of Bobek, because we had run out of Bobek.
+Flavour is nice.
+
+09/05/2021
+==========
+
+Bottling day.
+Calculated priming sugar based on 2.3 volumes of CO2, in order to get carbonation that is a bit higher than for British Style Ales and at the low end for European Lagers).
+Racked on top of the sugar solution before bottling.
+Flavour is hoppier than before dry hopping and we like it and the clarity is good too.
