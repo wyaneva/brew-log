@@ -1,0 +1,45 @@
+06/06/2021
+==========
+
+Using the Brewzilla Robobrewer for the second time, yayy!
+
+Grains - 6.7kg
+
+Mash
+----
+Mashing with around 24L water: 
+  * 18L for mash thickness of 2.7L/kg 
+  * 6L for the deadspace under the grains in the robobrewer; this will also allow us to start the sparging by circulating this extra-water and we will need less sparge water. 
+
+Added 4ml (just under 1tsp) of lactic acid to the water in order to reduce the pH of the mash, i.e. make it more acidic. This is useful for a New England IPA, because the grains are light (not caramalt) and have lower acidity.
+
+Heated the water to 73C and added the grains.
+
+Mashing at 68C for 60 minutes.
+
+Sparge
+------
+Added hops to the wart before sparging (that's off recipe):
+14g Centennial 
+
+Sparged with additional 6L of water @ 78C. Eneded up with have about 24L, don't know where it all went, maybe absorbed by the grains.
+
+Pre-boil gravity: 1.057 which is slightly over (expected 1.055). 
+
+Boil
+----
+Boiling for 40mins (we decided to end the boil early, as we didn't have much volume and wanted to keep the gravity). 
+Not adding any hops at this stage.
+Not adding any Irish Moss, because we want a hazy beer.
+
+Whirpooling
+-----------
+30g centennial  @ 79C
+4 min
+25 g amarillo.  @ 76C
+4 min
+28 g challenger @ 74C
+
+OG (after boil gravity): 1.061, efficiency 71%, it is fine :)
+
+Ended up with 17.5L - 18L of beer.
